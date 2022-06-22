@@ -1,0 +1,22 @@
+.dayweek_container{
+    display: flex;
+    flex-direction: column;
+}
+
+.dayweek_header{
+    display: flex;
+    justify-content: center;
+}
+
+.time_container{
+    display: flex;
+    flex-direction: column;
+}
+
+.time{
+    display: flex;
+    height: 4vh;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}

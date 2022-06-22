@@ -1,0 +1,12 @@
+.options_container{
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.opt{
+    background-color: transparent;
+    border: transparent;
+    font-size: large;
+}
